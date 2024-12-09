@@ -1,0 +1,21 @@
+/*
+  Daniel Santos Martinez
+  UCID: ds73
+  December 10, 2024
+  ASSIGNMENT 7
+*/
+
+/*
+little styling done here since the majority was done inside the SentimentSubjectivityPlot.js d3 file
+*/
+
+.SentimentSubjectivityPlot {
+    padding: 20px;
+}
+
+.tweet-text-data div {
+    padding-top: 10px;
+    padding-left: 20px;
+    margin: 5px 0;
+    border-radius: 4px;
+}
